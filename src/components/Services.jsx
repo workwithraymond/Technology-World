@@ -8,13 +8,9 @@ const Services = () => {
       <div className="section-center">
         <article className="header">
           <h3>
-            custom furniture <br /> built only for you
+            The best way to buy the products you love.
           </h3>
-          <p>
-            At our furniture store, we specialize in creating custom pieces that
-            are tailored to your unique style and needs, let us help you create
-            the perfect piece of furniture for your home today!
-          </p>
+        
         </article>
         <div className="services-center">
           {services.map((serice) => {
